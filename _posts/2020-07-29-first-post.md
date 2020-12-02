@@ -1,7 +1,18 @@
 <html>
 <head>
+<title>Women Of Steel</title>
+<link rel="preconnect" href="https://fonts.gstatic.com">
+<link href="https://fonts.googleapis.com/css2?family=Teko:wght@500&display=swap" rel="stylesheet"> 
+<link href="style.css" rel= "stylesheet"> 
+</head>  
+     
+    <body> 
+    <p>Women of Steel looks to empower women with guides to a healthy and active lifestyle. Here we create an atmosphere for women to feel comfortable and motivated no matter what shape or size. Our page consists of workouts from the gym to even in the home along with side activities such as yoga, hiking or simply going for a quick run. We also want strive to give an idea of a healthy lifestyle consisting of self motivation and confidence.</p>
+    <h1 style="color: darkturquoise; font-size: 78px; background-color:bisque">Women Of Steel</h1> 
+        
+        <h1 style="color:darkturquoise; fontsize: 44px">Women's Fitness- Workhard, Strive, and Achieve
 </h1>
-<p>Women of Steel looks to empower women with guides to a healthy and active lifestyle. Here we create an atmosphere for women to feel comfortable and motivated no matter what shape or size. Our page consists of workouts from the gym to even in the home along with side activities such as yoga, hiking or simply going for a quick run. We also want strive to give an idea of a healthy lifestyle consisting of self motivation and confidence.</p>
+
         
         <h2 style="color: dimgrey; font-size: 24px">Best Workouts to Strengthen Your Upper Body</h2>
         <p>Demonstrated and chosen by fintess influencer Whitney Simmons, these upper body workouts focus on a variety of your muscles from biceps, back, shoulders, chest and triceps. 

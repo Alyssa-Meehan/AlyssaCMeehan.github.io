@@ -1,0 +1,36 @@
+body{font-family: 
+font-family: 'Teko', sans-serif;
+   
+}
+
+h1 {
+    color:darkturquoise; 
+    font-weight: bold; 
+    text-decoration: overline;
+    background-color:solid white
+ 
+}
+
+h2 {
+    color: dimgrey;
+    font-weight: bold;
+    text-decoration: underline;
+    background-color: solid white 
+}
+h3 {
+    color: dimgrey;
+    font-weight: bold;
+    text-decoration: underline;
+    background-color: solid white
+}
+h4{
+    color: dimgrey;
+    font-weight: bold;
+    text-decoration: underline;
+    background-color: solid white
+}
+
+p {
+    font-size 1.75em;
+    margin-left: 3%
+}

@@ -1,4 +1,5 @@
-
+<html>
+<head>
 </h1>
 <p>Women of Steel looks to empower women with guides to a healthy and active lifestyle. Here we create an atmosphere for women to feel comfortable and motivated no matter what shape or size. Our page consists of workouts from the gym to even in the home along with side activities such as yoga, hiking or simply going for a quick run. We also want strive to give an idea of a healthy lifestyle consisting of self motivation and confidence.</p>
         

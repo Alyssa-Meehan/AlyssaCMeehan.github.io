@@ -29,15 +29,15 @@
         <p><a href="https://www.youtube.com/watch?v=Wqu7Zge3kcs">POWER WORKOUT FITNESS WITH BETHY RED</a></p>
         <h5 style="color: dimgrey; font-size: 24px"> At home Workouts- Quarentined Days</h5>
         <P> With gyms being closed an a pandemic isolating us indoors at home workouts became such a flex! Demonstrated by Natacha Oceane these videos walk you through how to keep active with limted space and equipment</P>
-        <p><a href= https://www.youtube.com/watch?v=CYD7f5b_qj4> Natacha Oceane Full Body (20 min) At home!</a></p>
-        <p> <a href= https://www.youtube.com/watch?v=__YioDJvUA8></a>Natacha Oceane Full Body (15 min) At home!</p>
+        <p><a href="https://www.youtube.com/watch?v=CYD7f5b_qj4"> Natacha Oceane Full Body (20 min) At home!</a></p>
+        <p> <a href="https://www.youtube.com/watch?v=__YioDJvUA8"></a>Natacha Oceane Full Body (15 min) At home!</p>
         
         <h1 style="color:darkturquoise; fontsize: 44px">Happy Eating
 </h1>
          <h2 style="color: dimgrey; font-size: 24px">Building a healthy, happy diet</h2>
         <p> Stefanie Buttermore stands as a great example of not being afraid to try new things and eat what she wants. as a retired bikini model Stefanie Buttermore overcame an eating disorders and represents a great rolemodel for women wanting to strive for a healthy change. She has great techniques behind her daily diet and how she keeps her body healthy</p>
-        <p><a href= https://www.youtube.com/watch?v=N9z5xqAP7ek></a>How 1 YEAR Of Weight Gain Changed My Life Forever</p>
-        <p><a href= https://www.youtube.com/watch?v=E_jcXhlFeM4&t=705s></a>What I Eat In A Day</p>
+        <p><a href="https://www.youtube.com/watch?v=N9z5xqAP7ek"></a> How 1 YEAR Of Weight Gain Changed My Life Forever</p>
+        <p><a href="https://www.youtube.com/watch?v=E_jcXhlFeM4&t=705s"></a> What I Eat In A Day</p>
         
         
         

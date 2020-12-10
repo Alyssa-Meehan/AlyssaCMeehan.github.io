@@ -35,7 +35,7 @@
         <h1 style="color:darkturquoise; fontsize: 44px">Happy Eating
 </h1>
          <h2 style="color: dimgrey; font-size: 24px">Building a healthy, happy diet</h2>
-        <p> Stefanie Buttermore stands as a great example of not being afraid to try new things and eat what she wants. as a retired bikini model Stefanie Buttermore overcame an eating disorders and represents a great rolemodel for women wanting to strive for a healthy change. She has great techniques behind her daily diet and how she keeps her body healthy</p>
+        <p> Stefanie Buttermore stands as a great example of not being afraid to try new things and eat what you want. As a retired bikini model, Stefanie Buttermore overcame an eating disorders and represents a great rolemodel for women wanting to strive for a healthy change. She has great techniques behind her daily diet and how she keeps her body healthy. Listed below is her story, and a video on what she eats in a day and why!</p>
         <p><a href="https://www.youtube.com/watch?v=N9z5xqAP7ek">How 1 YEAR Of Weight Gain Changed My Life Forever</a></p>
         <p><a href="https://www.youtube.com/watch?v=E_jcXhlFeM4&t=705s">What I Eat In A Day</a></p>
         
